@@ -1,0 +1,6 @@
+theme: jekyll-theme-midnight
+title: Isaac Liem's Porfolio
+description: DSC-450 Content
+syntax_highlighter: rouge
+syntax_highlighter_opts:
+        css_class: 'highlight'
